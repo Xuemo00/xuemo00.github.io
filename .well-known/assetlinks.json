@@ -1,8 +1,9 @@
+
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.xuemo00.twa",
-    "sha256_cert_fingerprints": ["EE:1E:37:64:2E:9D:4A:1D:96:44:39:A5:C2:C5:6D:2E:72:51:01:39:B1:95:5A:22:44:B3:FB:39:3E:CA:D5:9C"]
+    "sha256_cert_fingerprints": ["97:03:F4:AB:F5:02:08:9D:83:9B:5A:E5:33:48:CE:87:80:42:5C:5A:91:C4:F0:32:EE:F8:98:56:E5:F2:F8:C0"]
   }
 }]
